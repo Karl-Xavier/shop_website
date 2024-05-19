@@ -1,0 +1,36 @@
+body
+{
+    height: 100vh;
+}
+
+.handler input
+{
+    text-align: center;
+    width: 75px;
+}
+
+.handler button
+{
+    height: 35px;
+    width: 35px;
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+    outline: none;
+}
+
+.handler .minus
+{
+    margin-right: 5px;
+}
+
+.handler .add
+{
+    margin-left: 5px;
+}
+
+.alert
+{
+    text-align: center;
+    flex-grow: 1;
+}
