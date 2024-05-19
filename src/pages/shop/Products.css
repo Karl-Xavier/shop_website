@@ -8,7 +8,10 @@
       object-fit: cover;
     }
     .card-body h2{
-        font-size: 1.2rem;
+        width: 100%;
+        font-size: .9rem;
+        text-align: center;
+        font-weight: bold;
     }
     .cartbtn{
         font-size: .7rem;
