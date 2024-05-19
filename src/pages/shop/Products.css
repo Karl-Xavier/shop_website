@@ -1,19 +1,17 @@
+.column
+{
+    margin: 10px, 0, 10px 0;
+}
 .displayCards
 {
     text-align: center;
 }
 
 @media (max-width: 575.98px) {
-    .shopTitle{
-        padding: 10px;
-    }
-    .container{
-        padding: 0;
-    }
+    
     .column{
-        margin-right: 0px;
-        padding-right: 0;
-        padding-left: 0;
+        margin: 5px, 0, 5px, 0;
+        padding: 2px;
     }
     .displayCards {
       width: 120%;
