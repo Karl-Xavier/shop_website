@@ -1,6 +1,22 @@
+.displayCards
+{
+    text-align: center;
+}
+
 @media (max-width: 575.98px) {
+    .shopTitle{
+        padding: 10px;
+    }
+    .container{
+        padding: 0;
+    }
+    .column{
+        margin-right: 0px;
+        padding-right: 0;
+        padding-left: 0;
+    }
     .displayCards {
-      width: 80%;
+      width: 120%;
       font-size: 1rem;
     }
     .displayCards .card-img-top {

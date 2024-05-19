@@ -10,7 +10,7 @@ function Products(props){
 
     const {addToCart} = useContext(ShopContext)
     return (
-        <div class="col-lg-4 col-md-6 col-6 my-3">
+        <div class="col-lg-4 col-md-6 col-6 my-3 column">
         <div class="displayCards card" style={{width: "100%"}}>
             <img class="rounded card-img-top" src={productImg} alt="" height={350}/>
           <div class="card-body">

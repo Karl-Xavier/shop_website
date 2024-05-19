@@ -1,6 +1,7 @@
 import React from "react";
 import PRODUCTS from "../../product";
 import Products from "./Products";
+import './Products.css'
 /* import 'bootstrap/dist/css/bootstrap.min.css'
  */
 import { Container, Row } from "react-bootstrap";
