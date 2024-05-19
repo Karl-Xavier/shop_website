@@ -1,0 +1,17 @@
+@media (max-width: 575.98px) {
+    .displayCards {
+      width: 80%;
+      font-size: 1rem;
+    }
+    .displayCards .card-img-top {
+      height: 200px;
+      object-fit: cover;
+    }
+    .card-body h2{
+        font-size: 1.2rem;
+    }
+    .cartbtn{
+        font-size: .7rem;
+        font-weight: bold;
+    }
+  }
