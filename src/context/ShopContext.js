@@ -29,6 +29,7 @@ function ShopContextProvider(props){
         setCartItems((prev ) => ({
             ...prev, [itemId] : prev[itemId] + 1
         }))
+        alert("Item Added....Check Cart")
     }
 
     function removeFromCart(itemId){
